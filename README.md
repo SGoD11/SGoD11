@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new web3 technologies, and many more 😉**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sdgod11?utm_source= linktree_profile_share](https://linktr.ee/sdgod11?utm_source= linktree_profile_share)
+- 👨‍💻 All of my projects are available at [My Portfolio ](https://portfolio-3d-six-beta.vercel.app/)
 
 - 💬 Ask me about **html,css,js,python,c/c++,java,mongodb,nodejs**
 
