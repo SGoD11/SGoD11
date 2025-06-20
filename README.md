@@ -3,7 +3,7 @@
 <h3 align="center">A Fullstack web developer and a CS student</h3>
 <img align="right" alt="coding duck" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
-<p align="left"> <a href="https://twitter.com/subhaji27016855" target="blank"><img src="https://img.shields.io/twitter/follow/subhaji27016855?logo=twitter&style=for-the-badge" alt="subhaji27016855" /></a> </p>
+<p align="left"> <a href="https://x.com/SubhajitDhar000" target="blank"><img src="https://img.shields.io/twitter/follow/subhajitdhar?logo=twitter&style=for-the-badge" alt="subhajit dhar profle twitter" /></a> </p>
 
 - 🌱 I’m currently learning **new web3 technologies, and many more 😉**
 
