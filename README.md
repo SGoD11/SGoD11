@@ -1,41 +1,252 @@
-<img align="center" width="100%" height="20%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2153e2142355377.6265c3fe66250.gif">
-<h1 align="center">Hi 👋, I'm Subhajit Dhar</h1>
-<h3 align="center">A Fullstack web developer and a CS student</h3>
-<img align="right" alt="coding duck" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<!-- ████████████████████ BANNER ████████████████████ -->
+<div align="center">
 
-<p align="left"> <a href="https://x.com/SubhajitDhar000" target="blank"><img src="https://img.shields.io/twitter/follow/subhajitdhar?logo=twitter&style=for-the-badge" alt="subhajit dhar profle twitter" /></a> </p>
+<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2153e2142355377.6265c3fe66250.gif" alt="Subhajit Dhar sgod11 GitHub banner"/>
 
-- 🌱 I’m currently learning **new web3 technologies, and many more 😉**
+<!-- RETRO NEON CAPSULE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="neon divider"/>
 
-- 👨‍💻 All of my projects are available at [My Portfolio ](https://portfolio-3d-six-beta.vercel.app/)
+<br/>
 
-- 💬 Ask me about **html,css,js,python,c/c++,java,mongodb,nodejs**
+<!-- PIXEL FONT TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=00FFEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%BE+INITIALIZING+SGOD11.EXE...;%F0%9F%92%BB+SUBHAJIT+DHAR+%7C+FULLSTACK+DEV;%F0%9F%9A%80+BUILDING+THE+WEB%2C+ONE+BUG+AT+A+TIME;%E2%9A%A1+CS+STUDENT+%7C+WEB3+EXPLORER)](https://git.io/typing-svg)
 
-- 📫 How to reach me **subhajit13dhar@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I always stuck in coding and too lazy**
+<!-- PROFILE VIEWS + FOLLOW BADGE -->
+<a href="https://github.com/sgod11">
+  <img src="https://komarev.com/ghpvc/?username=sgod11&label=👁️+PROFILE+VIEWS&color=00ffea&style=for-the-badge&labelColor=0d0d0d" alt="sgod11 profile views"/>
+</a>
+&nbsp;
+<a href="https://x.com/SubhajitDhar000">
+  <img src="https://img.shields.io/twitter/follow/subhajitdhar?logo=twitter&style=for-the-badge&color=00FFEA&labelColor=0d0d0d" alt="Subhajit Dhar Twitter"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+<br/>
+
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
+
+<!-- ████████████████████ ABOUT ████████████████████ -->
+
+<img align="right" alt="Subhajit Dhar coding duck" width="320" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+
+## `> whoami`
+
+```
+╔══════════════════════════════════════════╗
+║  Name   :  Subhajit Dhar                ║
+║  Alias  :  sgod11                       ║
+║  Role   :  Fullstack Web Developer      ║
+║  Base   :  India 🇮🇳                     ║
+║  Status :  Currently breaking prod 🔥   ║
+╚══════════════════════════════════════════╝
+```
+
+I'm **Subhajit Dhar** ([@sgod11](https://github.com/sgod11)), a fullstack web
+developer and CS student obsessed with building modern, fast, and beautiful web
+applications. From pixel-perfect UIs to scalable backends — I do it all.
+
+- 🌱 Currently exploring **Web3 technologies & blockchain development**
+- 💻 I build with the **MERN stack** — MongoDB · Express · React · Node.js
+- 🏆 All my projects live at → [**My Portfolio**](https://portfolio-3d-six-beta.vercel.app/)
+- 💬 Ask me about **HTML · CSS · JS · Python · C/C++ · Java · MongoDB · Node.js**
+- 📫 Hit me up → **subhajit13dhar@gmail.com**
+- ⚡ Fun fact: I always get stuck in coding and I'm way too lazy 😂
+
+<br clear="right"/>
+
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
+
+<!-- ████████████████████ 3D CONTRIBUTION GRAPH ████████████████████ -->
+
+## `> 3D_CONTRIBUTION.render()`
+
+<div align="center">
+
+<a href="https://github.com/sgod11">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=sgod11&theme=monokai" width="100%" alt="Subhajit Dhar sgod11 3D contribution graph"/>
+</a>
+
+> **💡 Pro tip:** This 3D graph auto-updates with every contribution Subhajit Dhar makes on GitHub.
+
+</div>
+
+<!-- ████████████████████ SNAKE ANIMATION ████████████████████ -->
+
+## `> CONTRIBUTION_SNAKE.exe`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake.svg"/>
+  <img alt="sgod11 GitHub contribution snake animation" src="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> **⚙️ To activate the snake:** Go to your repo → Actions → [Use this workflow](https://github.com/Platane/snk/blob/master/readme.md)
+
+</div>
+
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
+
+<!-- ████████████████████ SKILLS ████████████████████ -->
+
+## `> skills --list-all`
+
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Bootstrap · Figma  
+**Backend:** Node.js · Python · Java · C · C++  
+**Databases:** MongoDB · MySQL · PostgreSQL  
+**Tools:** Git · Bash · Linux · Postman
+
+<!-- ICON ROW -->
 <p align="left">
-<a href="https://twitter.com/subhaji27016855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhaji27016855" height="30" width="40" /></a>
-<a href="https://instagram.com/subhajit_dhar_sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhajit_dhar_sd" height="30" width="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
+  </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgod11&label=Profile%20views&color=0e75b6&style=flat" alt="sgod11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sgod11" alt="sgod11" /></a> </p>
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<!-- ████████████████████ TROPHIES ████████████████████ -->
 
+## `> TROPHIES.unlock()`
 
- <a href="https://www.postgresql.org//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sgod11&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Subhajit Dhar sgod11 GitHub trophies"/>
+  </a>
+</div>
 
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
 
+<!-- ████████████████████ GITHUB STATS ████████████████████ -->
+
+## `> github --stats sgod11`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sgod11&show_icons=true&locale=en&theme=radical&border_radius=10&border_color=00ffea" alt="Subhajit Dhar GitHub stats sgod11" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgod11&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&border_color=00ffea" alt="sgod11 top languages" width="38%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgod11&theme=radical&border=00ffea&ring=00ffea&fire=ff6e6e&currStreakLabel=00ffea" alt="sgod11 GitHub streak Subhajit Dhar" width="60%"/>
+
+</div>
+
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
+
+<!-- ████████████████████ ACTIVITY GRAPH ████████████████████ -->
+
+## `> activity --graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgod11&bg_color=0d0d0d&color=00ffea&line=ff6e6e&point=ffffff&area=true&hide_border=false&border_color=00ffea" alt="Subhajit Dhar sgod11 activity graph" width="100%"/>
+</div>
+
+<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
+
+<!-- ████████████████████ CONNECT ████████████████████ -->
+
+## `> connect --with-me`
+
+I'm **Subhajit Dhar**, open to collaborations, freelance projects, and cool ideas!  
+Find me across the web as **sgod11** or **Subhajit Dhar**:
+
+<div align="left">
+
+📧 **Email** → [subhajit13dhar@gmail.com](mailto:subhajit13dhar@gmail.com)  
+🐦 **Twitter/X** → [@SubhajitDhar000](https://x.com/SubhajitDhar000)  
+📸 **Instagram** → [@subhajit_dhar_sd](https://instagram.com/subhajit_dhar_sd)  
+🌐 **Portfolio** → [portfolio-3d-six-beta.vercel.app](https://portfolio-3d-six-beta.vercel.app/)  
+💻 **GitHub** → [github.com/sgod11](https://github.com/sgod11)
+
+<p>
+  <a href="https://twitter.com/SubhajitDhar000" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-00FFEA?style=for-the-badge&logo=twitter&logoColor=0d0d0d" alt="Subhajit Dhar Twitter"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/subhajit_dhar_sd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF6E6E?style=for-the-badge&logo=instagram&logoColor=0d0d0d" alt="Subhajit Dhar Instagram"/>
+  </a>&nbsp;
+  <a href="https://portfolio-3d-six-beta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-B967FF?style=for-the-badge&logo=vercel&logoColor=0d0d0d" alt="Subhajit Dhar Portfolio"/>
+  </a>&nbsp;
+  <a href="mailto:subhajit13dhar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFB96?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Subhajit Dhar Email"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgod11&show_icons=true&locale=en&layout=compact" alt="sgod11" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgod11&show_icons=true&locale=en" alt="sgod11" /></p>
+<!-- ████████████████████ RETRO FOOTER ████████████████████ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgod11&" alt="sgod11" /></p>
+<br/>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&repeat=true&width=700&lines=THANKS+FOR+VISITING+SGOD11%27S+PROFILE+👾;MADE+WITH+💻+BY+SUBHAJIT+DHAR;KEEP+CODING%2C+KEEP+GRINDING+🚀)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=sgod11&fontSize=24&fontColor=00FFEA&animation=twinkling&fontAlignY=65" width="100%" alt="Subhajit Dhar sgod11 footer"/>
+
+</div>
