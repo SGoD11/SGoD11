@@ -31,8 +31,6 @@
 
 <!-- ████████████████████ ABOUT ████████████████████ -->
 
-<img align="right" alt="Subhajit Dhar coding duck" width="320" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
-
 ## `> whoami`
 
 ```
@@ -63,38 +61,22 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ 3D CONTRIBUTION GRAPH ████████████████████ -->
 
-## `> 3D_CONTRIBUTION.render()`
+## `> CONTRIBUTION_SUMMARY.render()`
 
 <div align="center">
 
-<a href="https://github.com/sgod11">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=sgod11&theme=monokai" width="100%" alt="Subhajit Dhar sgod11 3D contribution graph"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgod11&theme=monokai" width="100%" alt="Subhajit Dhar sgod11 contribution summary"/>
 
-> **💡 Pro tip:** This 3D graph auto-updates with every contribution Subhajit Dhar makes on GitHub.
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgod11&theme=monokai" width="32%" alt="repos per language"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgod11&theme=monokai" width="32%" alt="most commit language"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgod11&theme=monokai&utcOffset=5.5" width="32%" alt="productive time"/>
+
+> **💡 Pro tip:** Cards auto-update with every contribution Subhajit Dhar makes on GitHub.
 
 </div>
 
 <!-- ████████████████████ SNAKE ANIMATION ████████████████████ -->
 
-## `> CONTRIBUTION_SNAKE.exe`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake.svg"/>
-  <img alt="sgod11 GitHub contribution snake animation" src="https://raw.githubusercontent.com/sgod11/sgod11/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> **⚙️ To activate the snake:** Go to your repo → Actions → [Use this workflow](https://github.com/Platane/snk/blob/master/readme.md)
-
-</div>
-
-<!-- ████████████████████ NEON DIVIDER ████████████████████ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
-
-<!-- ████████████████████ SKILLS ████████████████████ -->
 
 ## `> skills --list-all`
 
@@ -103,63 +85,8 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 **Databases:** MongoDB · MySQL · PostgreSQL  
 **Tools:** Git · Bash · Linux · Postman
 
-<!-- ICON ROW -->
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+<!-- ICON ROW — all on ONE line, no newlines between tags = inline rendering guaranteed -->
+<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a></p>
 
 <!-- ████████████████████ NEON DIVIDER ████████████████████ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="divider"/>
@@ -183,11 +110,9 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sgod11&show_icons=true&locale=en&theme=radical&border_radius=10&border_color=00ffea" alt="Subhajit Dhar GitHub stats sgod11" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgod11&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&border_color=00ffea" alt="sgod11 top languages" width="38%"/>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=sgod11&show_icons=true&locale=en&theme=radical&border_radius=10&border_color=00ffea&cache_seconds=3600" alt="Subhajit Dhar GitHub stats sgod11"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgod11&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&border_color=00ffea&cache_seconds=3600" alt="sgod11 top languages"/></td></tr></table>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgod11&theme=radical&border=00ffea&ring=00ffea&fire=ff6e6e&currStreakLabel=00ffea" alt="sgod11 GitHub streak Subhajit Dhar" width="60%"/>
 
