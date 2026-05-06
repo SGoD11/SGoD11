@@ -88,7 +88,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 <!-- ICON ROW — all on ONE line, no newlines between tags = inline rendering guaranteed -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,postgresql,express,react,next,tailwind,bash,bootstrap,c,cpp,html,css,py,js,linux,npm,postman,supabase,mysql,java,git,figma&perline=11&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongo,postgresql,express,react,next,tailwind,bash,bootstrap,c,cpp,html,css,py,js,linux,npm,postman,supabase,mysql,java,git,figma,jquery,github,fastapi&perline=12&theme=light)](https://skillicons.dev)
 
 
 <!-- ████████████████████ NEON DIVIDER ████████████████████ -->
