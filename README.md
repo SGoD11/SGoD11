@@ -61,7 +61,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ 3D CONTRIBUTION GRAPH ████████████████████ -->
 
-## `> CONTRIBUTION_SUMMARY.render()`
+## `> CONTRIBUTION_SUMMARY`
 
 <div align="center">
 
@@ -71,14 +71,13 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgod11&theme=monokai" width="32%" alt="repos per language"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sgod11&theme=monokai" width="32%" alt="most commit language"/>&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sgod11&theme=monokai&utcOffset=5.5" width="32%" alt="productive time"/>
 
-> **💡 Pro tip:** Cards auto-update with every contribution Subhajit Dhar makes on GitHub.
 
 </div>
 
 <!-- ████████████████████ SNAKE ANIMATION ████████████████████ -->
 
 
-## `> skills --list-all`
+## `> skills`
 
 **Frontend:** HTML5 · CSS3 · JavaScript · React · Bootstrap · Figma  
 **Backend:** Node.js · Python · Java · C · C++  
@@ -96,7 +95,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ TROPHIES ████████████████████ -->
 
-## `> TROPHIES.unlock()`
+## `> TROPHIES`
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -109,7 +108,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ GITHUB STATS ████████████████████ -->
 
-## `> github --stats sgod11`
+## `> github stats sgod11`
 
 <div align="center">
 
@@ -124,7 +123,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ ACTIVITY GRAPH ████████████████████ -->
 
-## `> activity --graph`
+## `> activity graph`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgod11&bg_color=0d0d0d&color=00ffea&line=ff6e6e&point=ffffff&area=true&hide_border=false&border_color=00ffea" alt="Subhajit Dhar sgod11 activity graph" width="100%"/>
@@ -135,7 +134,7 @@ applications. From pixel-perfect UIs to scalable backends — I do it all.
 
 <!-- ████████████████████ CONNECT ████████████████████ -->
 
-## `> connect --with-me`
+## `> connect with me`
 
 I'm **Subhajit Dhar**, open to collaborations, freelance projects, and cool ideas!  
 Find me across the web as **sgod11** or **Subhajit Dhar**:
